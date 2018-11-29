@@ -1,0 +1,41 @@
+Title:
+  Development of an Android-based attendance system for Philippine Science High School Eastern Visayas Campus using Android Studio.
+  Introduction
+  
+I.	Research Topic
+  18 classrooms in Philippine Science High School Eastern Visayas Campus use 5 sheets of paper every week for checking attendance. This research aims to remove the need for paper in checking attendance. Additionally, it attempts to remove data manipulation in attendance taking. 
+  The Android Studio 3.0 software shall be used in developing the application. The application will be used to create digital attendance sheets where the teachers can sign with a PIN of their choosing. The class monitor can also record the absences and tardiness of the students using the app. The application will also provide summaries of the attendance sheets per week. In the development of this application, wireframes shall be initially used to format and design the application and then development with Android Studio 3.0 software will commence. If allowed, it shall be implemented in 3 classrooms for at least 2 days and then it shall be evaluated using a survey.
+
+II.	Significance
+  The development of the application will benefit class advisers as it will provide them with an attendance sheet as long as they have access to the application. It can also benefit the Discipline Officer as he/she can look at the summaries provided by the application. Lastly, the research can benefit the environment as it will remove the need of paper in taking attendance.
+
+III.	Statement of the Problem
+  Main Objective
+    To develop an Android-based attendance system for Philippine Science High School Eastern Visayas Campus using Android Studio.
+  Specific Objectives
+    •	To format and design wireframes that are user-friendly to the target audience of the application.
+    •	To write the backend and frontend code of the application.
+    •	To evaluate the design and effectivity of the application.
+
+IV.  Brief Literature Survey
+	The development of the application will need the Android Studio 3.0 software. The Android Studio software is the official Integrated Development Environment (IDE) for Android app development provided by Google. Android studio offers many features that can make Android app development easier for developers such as a fast and feature-rich emulator, a unified environment where you can develop for all Android devices, etc (“Meet Android Studio | Android Developers”, 2018).
+	An attendance taking system using paper will not be fit in the modern age of technology that we live in. An online and/or digital attendance system processes information faster than a paper-based one (“Is Digital Attendance-Taking Legitimate?”, 2016). Other researchers have already harnessed the powers of technology to hasten the attendance taking process. Researchers have used QR codes (Masalha & Hirzallah, 2014), fingerprint biometrics (Zainal, Sidek, Gunawan, Manser, & Kartiwi, 2014), and even web-based applications (Jacksi & Ibrahim, 2018) in developing their own attendance system.
+	Unfortunately, like all digital based systems, one of its limitations is its dependency on the battery life of the device. Without sufficient battery life, the device cannot run the application. Specifically, the phone cannot run the application without any battery life (“Manual vs Automated Time & Attendance | Mitrefinch Blog”, 2018).
+
+V.  Feasibility
+	The materials needed for this research are a laptop, an Android phone, an USB connector, the Android Studio 3.0 software, and a connection to the internet. The materials mentioned beforehand are already in the possession or accessible to the researcher.
+	As for the expenses of the research, the only possible expense would be the connection to the internet for the researcher/s. Luckily, this expense can be easily handled by the researcher/s.
+	Considering the day to day schedule and workload of the researcher, the research can be done in 1 month if done without any delays. Additionally, there will be an extra week for the implementation and evaluation of the application.
+
+VI. Limitations
+	One of the limitations of this research is that the application is strictly developed for Android phones only. Any phone using a different operating system like Apple’s IOS or Blackberry’s BlackBerry OS will not be able to use the application.
+	Another one of the limitations of the app is its dependency on an Android phone with sufficient battery life. The application to be developed, like all Android applications, relies on an Android phone having battery life to run the application.
+	Lastly, human error is the main limitations since the applications is still handled by a human class monitor. Any error or discrepancy can always possibly be caused by human error. For example, the monitor forgot to ask the teacher for his/her passcode to signify her presence in class.
+
+VII. References
+  Is Digital Attendace-Taking Legitimate? (2016, March 4). Retrieved September 15, 1018, from https://www.gradelink.com/blog/is-digital-attendance-taking-legitimate
+  Jacksi, K., & Ibrahim, F. (2018). Student Attendance Management System An Improved Approach for Information Retrieval with Systematic Web Crawling View project Student Attendance Management System View project. Article in International Journal of Engineering and Technology, (February), 0-5. https://doi.org/10.21276/sjet,2018.6.2.1
+  Manual vs Automated Time & Attendance | Mitrefinch Blog. (2018, March 2). Retrieved September 15, 2018, from https://mitrefinch.ca/time-and-attendance/manual-vs-automated-time-attendance-systems-pros-cons/
+  Masaslha, F., & Hirzallah, N. (2014). A Students Attendance System Using QR Code. International Journal of Advanced Computer Science & Applications. 5(4), 75-79. https://doi.org/10.14569/IJACSA.2014.050310
+  Meet Android Studio | Android Developers. (2018, September 24). Retrieved October 8, 2018, from https://developer.android.com/studio/intro/
+  Zainal, N. I., Sidek, K. A., Gunawan, T. S., Manser, H., & Kartiwi, M. (2014). Design and development of portable classroom attendance system based on Arduino and fingerprint biometric. 2014 the 5th International Conference on Information and Communication Technology for the Muslim World, ICT4M 2014, (January). https://doi.org/10.1109/ICT4M.2014.7020601	
